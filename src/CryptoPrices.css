@@ -1,0 +1,21 @@
+.crypto-container {
+    display: flex;
+    margin-top: 40px;
+    padding-left: 18%;
+}
+
+.crypto-card {
+  background-color: rgb(29, 28, 28);
+  border-radius: 8px;
+  padding: 20px;
+  width: 200px;
+  box-shadow: 0 4px 6px rgb(0, 0, 0.1);
+  text-align: center;
+  color: wheat;
+  margin-left: 2%;
+}
+
+.crypto-card p {
+  font-weight: bold;
+  color: green;
+}
